@@ -1,3 +1,4 @@
+"use client"
 import { Product } from "@/type";
 import { Currency } from "@/components/ui/currency";
 import Button from "./Button";
